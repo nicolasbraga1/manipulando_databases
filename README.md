@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1 align="center"> Manipulando Databases </h1>
+
+Olá e boas vindas ao projeto manipulando databases
+Com ele você é capaz de utilizar vários comandos diferentes para interagir com alguma database.
+Para desenvolvê-lo utilizei de MySQL para criar os comandos.
+
+________________________________________________________________________________
+
+Hello and welcome to the project database handling.
+With it you’re able to use various differents commands to interact with a database.
+To develop it I used MySQL to create the commands.
