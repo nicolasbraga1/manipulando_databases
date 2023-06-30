@@ -16,9 +16,7 @@ Docker-Compose versão 1.29 ou superior
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-- Diga como essa etapa será:
+- Para conseguir criar os serviços do projeto:
 
 ```
 ℹ️ Rode os serviços node e db com o comando docker-compose up -d.
@@ -38,7 +36,5 @@ Use o comando `docker exec -it all_for_one bash`.
 * Comandos usados no MySQL
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Nícolas Braga** - *Trabalho Inicial* - [Nícolas Braga](https://github.com/nicolasbraga1)
